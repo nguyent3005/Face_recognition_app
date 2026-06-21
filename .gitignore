@@ -1,0 +1,37 @@
+# Dependencies
+node_modules/
+
+# Environment files
+.env
+.env.local
+.env.*
+!.env.example
+
+# Build outputs
+dist/
+build/
+out/
+web-build/
+
+# Python cache and virtual environments
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Expo and mobile cache
+.expo/
+
+# Android build/cache
+android/build/
+android/.gradle/
+mobile/android/build/
+mobile/android/.gradle/
+
+# iOS dependencies/build
+ios/Pods/
+mobile/ios/Pods/
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,12 @@
+{
+  "version": "iresnet50_glint360k_v1",
+  "architecture": "iresnet50",
+  "input_size": [112, 112],
+  "embedding_dim": 512,
+  "normalization": {
+    "mean": [0.5, 0.5, 0.5],
+    "std": [0.5, 0.5, 0.5]
+  },
+  "tta_enabled": true,
+  "default_threshold": 0.65
+}

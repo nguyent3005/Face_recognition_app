@@ -1,0 +1,9 @@
+--- BẮT ĐẦU IMPORT TỪ EXCEL: C:\Users\Admin\Downloads\DSDK_CN_KS_68CS3.xlsx ---
+Thời gian: 2026-06-01 21:52:58
+Map cột: MSSV='MSSV', Tên='Họ và tên', Lớp='Lớp'
+
+--- BÁO CÁO KẾT QUẢ IMPORT ---
+Tổng số dòng xử lý: 36
+Import mới thành công: 36
+Đã tồn tại & cập nhật: 0
+Bỏ qua: 0

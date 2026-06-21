@@ -1,0 +1,37 @@
+student_id,student_code,full_name,status,similarity,photo_path,reason
+2,0210168,Ngô Thị Thùy Linh,missing_embedding,N/A,N/A,Sinh viên chưa có dữ liệu face embedding trong database
+3,0206068,Vũ Tiến Dũng,missing_embedding,N/A,N/A,Sinh viên chưa có dữ liệu face embedding trong database
+4,0213568,Nguyễn Kim Thuận,missing_embedding,N/A,N/A,Sinh viên chưa có dữ liệu face embedding trong database
+5,0208268,Đinh Minh Hoàng,missing_embedding,N/A,N/A,Sinh viên chưa có dữ liệu face embedding trong database
+6,0213868,Bùi Mạnh Tiến,missing_embedding,N/A,N/A,Sinh viên chưa có dữ liệu face embedding trong database
+7,0205768,Chử Văn Dũng,missing_embedding,N/A,N/A,Sinh viên chưa có dữ liệu face embedding trong database
+8,0203468,Lê Việt Anh,ok,0.9939,/uploads/photos/photo_0203468_20260606_013005_658260.jpg,
+9,0207368,Lưu Huyền Đức,missing_embedding,N/A,N/A,Sinh viên chưa có dữ liệu face embedding trong database
+10,0212468,Bùi Minh Quân,missing_embedding,N/A,N/A,Sinh viên chưa có dữ liệu face embedding trong database
+11,0212968,Nguyễn Phúc Thanh,missing_embedding,N/A,N/A,Sinh viên chưa có dữ liệu face embedding trong database
+12,0215668,Đặng Thị Khánh Vy,missing_embedding,N/A,N/A,Sinh viên chưa có dữ liệu face embedding trong database
+13,0205368,Mạnh Xuân Doanh,missing_embedding,N/A,N/A,Sinh viên chưa có dữ liệu face embedding trong database
+14,0208468,Trịnh Ngọc Hoàng,missing_embedding,N/A,N/A,Sinh viên chưa có dữ liệu face embedding trong database
+15,0204568,Phí Nguyễn Gia Bảo,missing_embedding,N/A,N/A,Sinh viên chưa có dữ liệu face embedding trong database
+16,0206768,Nguyễn Tiến Đạt,missing_embedding,N/A,N/A,Sinh viên chưa có dữ liệu face embedding trong database
+17,0213468,Trịnh Nguyễn Quốc Thịnh,missing_embedding,N/A,N/A,Sinh viên chưa có dữ liệu face embedding trong database
+18,0204268,Trần Quốc Anh,low_self_match,0.6673,/uploads/photos/photo_0204268_20260606_010824_421091.jpg,"Điểm tự so khớp thấp (0.6673 < 0.90), cần đăng ký lại để align chuẩn"
+19,0211768,Trần Đại Nghĩa,missing_embedding,N/A,N/A,Sinh viên chưa có dữ liệu face embedding trong database
+20,0213268,Trần Phúc Thiên,missing_embedding,N/A,N/A,Sinh viên chưa có dữ liệu face embedding trong database
+21,4000368,Phạm Quý Dương,missing_embedding,N/A,N/A,Sinh viên chưa có dữ liệu face embedding trong database
+22,0215268,Nghiêm Thanh Tùng,missing_embedding,N/A,N/A,Sinh viên chưa có dữ liệu face embedding trong database
+23,0208068,Phạm Văn Hòa,missing_embedding,N/A,N/A,Sinh viên chưa có dữ liệu face embedding trong database
+24,0204468,Bùi Thiên Bảo,missing_embedding,N/A,N/A,Sinh viên chưa có dữ liệu face embedding trong database
+25,0210968,Nguyễn Bình Minh,missing_embedding,N/A,N/A,Sinh viên chưa có dữ liệu face embedding trong database
+27,0205568,Phạm Thùy Dung,missing_embedding,N/A,N/A,Sinh viên chưa có dữ liệu face embedding trong database
+28,0207668,Phạm Minh Hải,missing_embedding,N/A,N/A,Sinh viên chưa có dữ liệu face embedding trong database
+29,0214068,Mai Trí Toàn,missing_embedding,N/A,N/A,Sinh viên chưa có dữ liệu face embedding trong database
+30,0212768,Vũ Nguyễn Cao Sơn,missing_embedding,N/A,N/A,Sinh viên chưa có dữ liệu face embedding trong database
+31,0211568,Trần Phương Nam,missing_embedding,N/A,N/A,Sinh viên chưa có dữ liệu face embedding trong database
+32,0204668,Bùi Xuân Bắc,missing_embedding,N/A,N/A,Sinh viên chưa có dữ liệu face embedding trong database
+33,0206468,Phan Cảnh Dương,missing_embedding,N/A,N/A,Sinh viên chưa có dữ liệu face embedding trong database
+34,0209868,Lâm Tuấn Kiệt,missing_embedding,N/A,N/A,Sinh viên chưa có dữ liệu face embedding trong database
+35,0204968,Luyện Đức Chiến,missing_embedding,N/A,N/A,Sinh viên chưa có dữ liệu face embedding trong database
+36,0215368,Ninh Thị Thanh Vân,missing_embedding,N/A,N/A,Sinh viên chưa có dữ liệu face embedding trong database
+38,0030680,Nguyễn Đức Huy ,low_self_match,0.5309,/uploads/photos/photo_0030680_20260606_010156_159753.jpg,"Điểm tự so khớp thấp (0.5309 < 0.90), cần đăng ký lại để align chuẩn"
+39,0294362,Nguyễn Đức Huy ,ok,0.9947,/uploads/photos/photo_0294362_20260606_012231_213412.jpg,
